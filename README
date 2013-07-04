@@ -1,0 +1,9 @@
+Install
+==========
+FreeBSD Ports:
+cd /usr/ports/ports-mgmt/pkg-rmleaf/ && make install clean
+
+Usage
+==========
+# pkg-rmleaf
+
