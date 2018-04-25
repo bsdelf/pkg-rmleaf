@@ -1,8 +1,8 @@
 # Created by: Yanhui Shen <shen.elf@gmail.com>
-# $FreeBSD: head/ports-mgmt/pkg-rmleaf/Makefile 361398 2014-07-09 18:02:58Z rakuco $
+# $FreeBSD: head/ports-mgmt/pkg-rmleaf/Makefile 374209 2014-12-07 14:53:39Z feld $
 
 PORTNAME=	pkg-rmleaf
-PORTVERSION=	0.3
+PORTVERSION=	0.4
 CATEGORIES=	ports-mgmt
 MASTER_SITES=	# none
 DISTFILES=	# none
@@ -10,7 +10,7 @@ DISTFILES=	# none
 MAINTAINER=	shen.elf@gmail.com
 COMMENT=	Remove leaf packages
 
-LICENSE=	BSD
+LICENSE=	BSD2CLAUSE
 
 NO_BUILD=	yes
 WRKSRC=		${WRKDIR}
