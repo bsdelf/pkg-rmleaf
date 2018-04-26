@@ -18,3 +18,6 @@ pkg install pkg-rmleaf
 pkg-rmleaf
 ```
 
+# Screenshot
+
+![pkg-rmleaf](https://github.com/bsdelf/pkg-rmleaf/raw/master/screenshot.png)
